@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #fa9e9c;
+  --secondary-color: rgba(73, 19, 8, 0.333);
+}
+
+body {
+  text-align: center;
+  background-color: var(--primary-color);
+}
+
+.links a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  padding: 25px;
+}
