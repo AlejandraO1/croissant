@@ -6,6 +6,13 @@
 body {
   text-align: center;
   background-color: var(--primary-color);
+  font-size: 18px;
+}
+
+img {
+  max-width: 90%;
+  max-height: auto;
+  margin: 10px;
 }
 
 .links a {
